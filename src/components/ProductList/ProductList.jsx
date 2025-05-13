@@ -1,7 +1,7 @@
 import React from "react";
 import Product from "../Product/Product";
 import Grid from '@mui/material/Grid';
-import './ProductList.css';
+
 
 const ProductList = (props) => {
     return (
