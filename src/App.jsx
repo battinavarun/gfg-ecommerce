@@ -1,7 +1,7 @@
 import { Routes, Route, NavLink, Navigate } from 'react-router'; // Make sure to import Navigate
 import Login from './pages/Login';
 import Register from './pages/Register';
-import AllProducts from './pages/ALLProducts';
+import AllProducts from './pages/AllProducts';
 import Cart from './pages/Cart';
 import './App.css';
 import Layout from './components/Layout/Layout';
